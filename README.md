@@ -1,4 +1,4 @@
-### Hi there, I'm [wiliam!](http://home.wiliam.me) 👋
+### 欢迎来到我的Github 我是 [wiliam!](http://home.wiliam.me) 👋
 
 
 ## 👨‍💻 语言 | Languages
@@ -13,22 +13,8 @@
    <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </a>
-  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
-     <img alt="go" src="https://img.shields.io/badge/go-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=%#007D9C">
-  </a>
   
-  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
-     <img alt="rust" src="https://img.shields.io/badge/rust-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=%#0B7261">
-  </a>
-    
-
-  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
-    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-  </a>
-	
-  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
-    <img alt="Perl" src="https://img.shields.io/badge/perl-%2314354C.svg?&style=for-the-badge&logo=perl&logoColor=%#0B7261">
-  </a>
+  
 </p>
 
 ### 🛠 技术栈 | Tech Stack
